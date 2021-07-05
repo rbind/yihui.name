@@ -305,10 +305,6 @@ Email：xie@yihui.org；主页：<https://yihui.org>；现居住于美国内布�
 1. 谢益辉，2008-09-14，论优化方法的可视化及教学（[PDF](https://github.com/downloads/yihui/yihui.github.com/Visual-Operations-Research-Yihui-Xie-2008.pdf)）
 1. 谢益辉，2006-12-04，Spurious Regression: Simulation and Theoretical Analysis（[PDF](https://github.com/downloads/yihui/yihui.github.com/Spurious-Regression-Yihui-Xie-2006.pdf)）
 
-### 网络文章
-
-统计之都文章参见[这里](https://cosx.org/author/yihui/)。
-
 ## 软件包
 
 ### R 包
